@@ -18,7 +18,7 @@ public class Lab00
          System.out.println(item);
       }
 
-      //call a function
+      //call a functionn
       char l = 'l';
       int numFound = CharCount(y, l);
       System.out.println("Found: " + numFound);
