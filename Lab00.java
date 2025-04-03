@@ -14,7 +14,6 @@ public class Lab00
 
       //array
       int[] nums = {3, 6, -1, 2};
-      //for (int i = 0; i < nums.length; i++) {
       for (int item: nums) {
          System.out.println(item);
       }
